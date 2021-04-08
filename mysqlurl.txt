@@ -1,0 +1,4 @@
+mysql://b83717aaf2a1d7:909a0f10@us-cdbr-east-03.cleardb.com/heroku_13655476c2fee33?reconnect=true
+
+
+  mysql --host=us-cdbr-east-03.cleardb.com --user=b83717aaf2a1d7 --password=909a0f10 --reconnect heroku_13655476c2fee33 < arquivo.sql 
